@@ -2,7 +2,7 @@
 
 ## 📑 Contents
 
--   [Project Description](#-project-description)
+-   [Project Description
 -   [Status of work](#-status-of-work)
 -   [Features](#✅-features)
 -   [API Documentation](#📮-api-documentation)
