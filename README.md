@@ -11,14 +11,10 @@
 -   [Build with](#%EF%B8%8F-build-with)
 -   [Contact](#-contact)
 
-## 📌 Project Description
+## 📌 O que é refatoração?
 
 <p align="justify">
-Browsing the internet can be a very fun activity, but at the same time, very dangerous. Numerous studies and surveys (national and international) show that the number of virtual scams continues to grow. Which raises the question: how to protect ourselves?
-There are several different ways to protect yourself. It all starts with using different and secure passwords. For a password to be security, it must contain several characters and numbers mixed in, not to mention that the longer it ii, etc.
-But how are we going to memorize giant passwords with no semantic meaning? It is to solve this pain that password managers were created! With them, 
-we only create one “master” password and all other passwords kept secret! So when we need it, just remember the “master” password! <b>DrivenPass</b> is your newest password manager, where you can save data such as: credentials, networks, notes and cards
-
+Refatoração é o processo de alterar o código existente para melhorar sua estrutura, sem alterar seu comportamento. É uma técnica que ajuda a manter o código limpo, fácil de entender e fácil de modificar. A refatoração é uma parte importante do processo de desenvolvimento de software e deve ser aplicada regularmente para evitar o acúmulo de dívida técnica.
 </p>
 
 ## 🚧 Status of work
