@@ -10,11 +10,11 @@ Refatoração é o processo de alterar o código existente para melhorar sua est
 </p>
 
 ## 🚧 Como usar este repositório
+![status](https://img.shields.io/badge/Status-Finished-00920F?style=plastic)<br>
 <p align="justify">
 Cada pasta deste repositório contém um exemplo de código que pode ser refatorado. Cada pasta inclui um arquivo README.md que descreve o problema com o código e as técnicas de refatoração que podem ser aplicadas para melhorar o design. 
 
 Para começar, escolha um exemplo de código que deseja refatorar. Em seguida, siga as instruções no arquivo README.md para aplicar as técnicas de refatoração descritas
 </p>
-![status](https://img.shields.io/badge/Status-Finished-00920F?style=plastic)<br>
 
-<!-- ![status](https://img.shields.io/badge/Status-Progress-FFE70C?style=plastic) -->
+
